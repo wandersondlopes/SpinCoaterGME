@@ -1,13 +1,25 @@
 # SpinCoaterGME
 
 Nesse repositorio encontra-se todos as informações de projeto para se construir um Spin Coater Homemade.
-Esse sistema utiliza um sistema embarcado em um spinner e um smartphone utilizando um app.
+Um Spin Coater é um equipamento muito utilzado em laboratórios. Utilizando esse equipamento podemos
+produzir filmes de varias espessuras de acordo com o procedimento experimental. Esse equipamento foi criado
+no GME (Grupo de Métodos Eletroforéticos/UFG - Brasil) e sua utilização era principalmente para produção de filmes
+polimericos de PDMS, PMMA e resinas. 
 
+Esse sistema utiliza um sistema embarcado em um spinner e um smartphone utilizando um app.
+Foi entendido que era necessario muita praticidade e facilidade no manuseio das amostras.
+Entao concebemos um projeto que utiliza um dispositivo totalmete livre para o usario que pode ser configurado
+via bluetooth. Com isso podemos facilitar o processo experimental e almentar a produtividade nesse dispositivo.
 
 
 # App
 
 O app foi feito utilizando a plataforma Mit App Inventor e utiliza a comunicação via bluetooth para troca de dados.
+O aplicativo foi concebido para proporcionar ao usuario uma experiencia mais pratica para o usuário.
+A interface do app tem as configurações disponiveis para que todo procedimento experimental seja realizado.
+O Usuário pode setar a intensidade de rotaçåo que porcentagem e o tempo de rotação em segundos.
+Foi concebida também uma tela de login para que o usuário posso se conectar com o seu dispositivo e que a senha
+de acesso ao bluetooth configurada.
 
 
 # Sistema Embarcado
