@@ -35,7 +35,7 @@ Video de demontração:
 https://youtu.be/IxnT_PpbAdY
 
 
-Firmware.
+# Firmware.
 
 O firmware foi escrito em liguagem C++ para Arduino. Para que se possa controlar a velocidade de rotação do motor
 controlamos o duty cicle do sinal fornecido ao driver do motor. Dessa maneira conseguimos controlar o fornecimento 
