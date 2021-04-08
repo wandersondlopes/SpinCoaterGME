@@ -29,6 +29,15 @@ O Sistema Embarcado do Spin Coater foi feito utilizando Eagle para fazer o circu
 para confecção do circuito. Foram deixadas disponíveis os terminais responsáveis pela gravação do arquivo .hex no microcontrolador ATmega328au.
 O sistema embarcado utiliza um módulo bluetooth HC-06.
 
+
+
+
+# SpinCoaterV3 AT-AU
+
+Nesse diretório encontra-se todos os arquivos para a confecção do hardware do spin coater. O projeto foi escrito
+usando o software Eagle. A placa conta com terminais para ser instalado o firmware. Foi utilizado um módulo bluetooth 
+que pode ser soldado na placa ou conectado por fios. 
+
 Video de demontração:
 https://youtu.be/IxnT_PpbAdY
 
