@@ -42,4 +42,8 @@ controlamos o duty cicle do sinal fornecido ao driver do motor. Dessa maneira co
 de corrente para o motor e controlar sua velocidade. Como o microcontrolador opera como um oscilador nessa etapa
 utilizamos o dispositivo mobile para servir como timer e controlar o tempo de rotação.
 
+
+
+"Escolha uma pessoa preguiçosa para fazer um trabalho duro. Porque uma pessoa preguiçosa encontrará uma maneira fácil de fazê-lo.“
+
 O Sistema desenvolvido é OpenSource
