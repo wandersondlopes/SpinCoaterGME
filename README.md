@@ -37,8 +37,8 @@ https://youtu.be/IxnT_PpbAdY
 # Firmware.
 
 O firmware foi escrito em liguagem C++ para Arduino. Para que se possa controlar a velocidade de rotação do motor
-controlamos o duty cicle do sinal fornecido ao driver do motor. Dessa maneira conseguimos controlar o fornecimento 
-de corrente para o motor e controlar sua velocidade. Como o microcontrolador opera como um oscilador nessa etapa
+controlamos o duty cicle do sinal fornecido ao driver do motor. Dessa maneira conseguimos determinar o fornecimento 
+de corrente para o motor e sua velocidade. Como o microcontrolador opera como um oscilador nessa etapa
 utilizamos o dispositivo mobile para servir como timer e determinar o tempo do procedimento de rotação.
 
 
