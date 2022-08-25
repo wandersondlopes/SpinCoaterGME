@@ -24,8 +24,8 @@ de acesso ao bluetooth configurada.
 # SpinCoaterV3 AT-AU - Sistema Embarcado
 
 
-O Sistema Embarcado do Spin Coater foi feito utilizando Eagle para fazer o circuito, está também disponível o vetor do circuito impresso
-para confecção do circuito. Nesse diretório encontra-se todos os arquivos para a confecção do hardware do spin coater. 
+O Sistema Embarcado do Spin Coater foi feito utilizando Eagle, está também disponível um pdf com o fotolito
+para confecção da PCB. Nesse diretório encontra-se todos os arquivos para a confecção do hardware do spin coater. 
 Foram deixadas disponíveis os terminais responsáveis pela gravação do arquivo .hex no microcontrolador ATmega328au. 
 O sistema embarcado utiliza um módulo bluetooth HC-06 que pode ser soldado na placa ou conectado por fios.
 
@@ -39,7 +39,7 @@ https://youtu.be/IxnT_PpbAdY
 O firmware foi escrito em liguagem C++ para Arduino. Para que se possa controlar a velocidade de rotação do motor
 controlamos o duty cicle do sinal fornecido ao driver do motor. Dessa maneira conseguimos controlar o fornecimento 
 de corrente para o motor e controlar sua velocidade. Como o microcontrolador opera como um oscilador nessa etapa
-utilizamos o dispositivo mobile para servir como timer e controlar o tempo de rotação.
+utilizamos o dispositivo mobile para servir como timer e determinar o tempo do procedimento de rotação.
 
 
 
