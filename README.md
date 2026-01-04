@@ -6,10 +6,9 @@ produzir filmes de varias espessuras de acordo com o procedimento experimental. 
 no GME (Grupo de Métodos Eletroforéticos/UFG - Brasil) e sua utilização era principalmente para produção de filmes
 poliméricos de PDMS, PMMA e resinas. 
 
-Esse sistema utiliza um sistema embarcado em um spinner com código escrito em C++ e um app para dispositivos Android que possuam bluetooth.
+Esse sistema utiliza um sistema embarcado com fimware que tem código escrito em C++ e um app para dispositivos Android que possuam bluetooth.
 Foi entendido que era necessario muita praticidade e facilidade no manuseio das amostras.
-Então concebemos um dispositivo de fácil utilização via bluetooth. Com isso podemos facilitar
-o processo experimental e aumentar a produtividade nesse dispositivo.
+Então concebemos um dispositivo de fácil utilização via bluetooth. Com isso podemos facilitar o procedimento experimental e aumentar a produtividade nesse dispositivo.
 
 
 # App
