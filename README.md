@@ -11,9 +11,9 @@ Foi entendido que era necessario muita praticidade e facilidade no manuseio das 
 Então concebemos um dispositivo de fácil utilização via bluetooth. Com isso podemos facilitar o procedimento experimental e aumentar a produtividade nesse dispositivo.
 
 
-# App
+# Aplicativo
 
-O app foi desenvolvido na plataforma Mit App Inventor e utiliza a comunicação via bluetooth para troca de dados.
+O aplicativo moble foi desenvolvido na plataforma Mit App Inventor e utiliza a comunicação via bluetooth para troca de dados.
 A interface do app tem as configurações disponiveis para que todo procedimento experimental seja realizado.
 O Usuário pode setar a intensidade de rotaçåo que porcentagem e o tempo de rotação em segundos.
 Foi concebida também uma tela de login para que o usuário posso se conectar com o seu dispositivo e que a senha
