@@ -24,6 +24,9 @@ de acesso ao aplicativo.
 
 Existem duas senhas padrão a serem configuradas para o funcionamento spin coater.
 A senha do aplicativo mobile e módulo HC-06.
+Atualmente a maneira de acessar o aplicativo com um usuário tem as seguintes etapas:
+precione Entrar com toque longo, apos aparecer a notificação
+para entrar como administrador confirme "Sim".
 
 
 # SpinCoaterV3 AT-AU - Sistema Embarcado
