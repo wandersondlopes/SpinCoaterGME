@@ -13,9 +13,9 @@ Então concebemos um dispositivo de fácil utilização via bluetooth. Com isso 
 
 # Aplicativo
 
-O aplicativo moble foi desenvolvido na plataforma Mit App Inventor e utiliza a comunicação via bluetooth para troca de dados.
-A interface do aplicativo tem as configurações disponiveis para que todo procedimento experimental seja realizado.
-O usuário pode setar a intensidade de rotação que porcentagem e o tempo de rotação em segundos.
+O aplicativo mobile foi desenvolvido na plataforma Mit App Inventor e utiliza a comunicação via bluetooth para troca de dados.
+A interface do aplicativo tem as configurações disponiveis para realizar o procedimento experimental.
+O usuário pode escrever a intensidade de rotação e o tempo de rotação em segundos.
 Foi concebida também uma tela de login para que o usuário possa conectar seu dispositivo e configurar a senha
 de acesso ao aplicativo.
 
@@ -25,8 +25,9 @@ de acesso ao aplicativo.
 Existem duas senhas padrão a serem configuradas para o funcionamento spin coater.
 A senha do aplicativo mobile e módulo HC-06.
 Atualmente a maneira de acessar o aplicativo com um usuário tem as seguintes etapas:
-precione Entrar com toque longo, apos aparecer a notificação
+precione "Entrar" com toque longo, apos aparecer a notificação
 para entrar como administrador confirme "Sim".
+A senha do módulo HC-06 é configurada por padrão "1234" e é utilizada para conectar o celular ao módulo.
 
 
 # SpinCoaterV3 AT-AU - Sistema Embarcado
@@ -50,4 +51,4 @@ utilizamos o dispositivo mobile para servir como timer e determinar o tempo do p
 
 "Escolha uma pessoa que resolve os problemas com simplicidade para fazer um trabalho duro. Porque essa pessoa pode encontrar uma maneira fácil de fazê-lo."
 
-O Sistema desenvolvido é OpenSource
+O Sistema desenvolvido é OpenSource.
